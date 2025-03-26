@@ -1,4 +1,4 @@
-# swaglib
+# NEW REPO: https://github.com/Freakybob-Team/swaglib
 
 ## install swaglib:
 ```pip install swaglib```
